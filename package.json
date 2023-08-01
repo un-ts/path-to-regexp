@@ -78,7 +78,7 @@
     "@1stg/lib-config": "^9.0.2",
     "@changesets/changelog-github": "^0.4.6",
     "@changesets/cli": "^2.24.1",
-    "@pkgr/webpack": "^3.2.0",
+    "@pkgr/webpack": "^3.4.0",
     "@pkgr/webpack-mdx": "^2.0.3",
     "@size-limit/preset-small-lib": "^7.0.8",
     "@types/mdx": "^2.0.2",
