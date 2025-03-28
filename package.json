@@ -85,7 +85,7 @@
     "@types/node": "^18.6.2",
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
-    "@types/web": "^0.0.70",
+    "@types/web": "^0.0.214",
     "c8": "^7.12.0",
     "github-markdown-css": "^5.1.0",
     "lib-boilerplate": "link:.",
