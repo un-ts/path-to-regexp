@@ -1,5 +1,5 @@
 {
   "extends": [
-    "guthub>1stG/configs"
+    "github>1stG/configs"
   ]
 }
